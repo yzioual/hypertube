@@ -1,4 +1,5 @@
 # hypertube
+
 ----
 
-## a streaming platform built in React/Django/PostgreSQL
+## A streaming platform built in React/Flask/SQLAlchemy/PostgreSQL
